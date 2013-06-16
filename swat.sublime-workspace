@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Stee",
+				"Steer"
+			],
+			[
+				"st",
+				"steer"
+			],
+			[
+				"su",
+				"Suspension"
+			],
+			[
+				"St",
+				"Steer"
+			],
+			[
+				"Wheel",
+				"wheel"
+			],
+			[
+				"fo",
+				"force"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"скоро",
+				"скорость"
+			],
+			[
+				"и",
+				"исправление"
+			],
+			[
+				"rp",
+				"rpm"
+			],
+			[
+				"trq",
+				"torque"
+			],
+			[
+				"ca",
+				"cau_xgnum"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"ma",
+				"mass_load_max"
+			],
+			[
+				"si",
+				"sideSlip"
+			],
+			[
+				"Fpl",
+				"update_Fplater"
+			],
+			[
+				"F",
+				"Fz"
+			],
+			[
+				"R",
+				"Rw"
+			],
+			[
+				"Fp",
+				"update_Fplateral"
+			],
+			[
+				"Fl",
+				"Flater_drive"
+			],
+			[
+				"f",
+				"fw_ange"
+			],
+			[
+				"wh",
+				"wheelbase"
+			],
+			[
+				"up",
+				"update_Fbreaking"
+			],
+			[
+				"W",
+				"Wl"
+			],
+			[
+				"авто",
+				"автомобиля"
+			],
+			[
+				"w",
+				"wheelrr"
+			],
+			[
+				"X",
+				"xgnum"
+			],
+			[
+				"Xg",
+				"Xglist"
+			],
+			[
+				"xg",
+				"xgmax"
+			],
+			[
+				"CG",
+				"CGr"
+			],
+			[
+				"m",
+				"mass"
+			],
+			[
+				"u",
+				"update_Frr"
+			],
+			[
+				"tra",
+				"transmission_now"
+			],
+			[
+				"Проверяе",
+				"Проверяется"
+			],
+			[
+				"check",
+				"checkWget"
+			],
+			[
+				"prost_",
+				"prost_index"
+			],
+			[
+				"prost",
+				"prost_index"
+			],
+			[
+				"lo",
+				"location"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/anth/Projects/cppst.c",
+		"/home/anth/.gvfs/homm3roe.iso/setup.sh",
+		"/media/UBUNTU/NewFile1.txt",
+		"/home/anth/heroes/README",
+		"/media/PHONE CARD/help.txt",
+		"/media/UBUNTU/Python/Projects/PyCar/car.py",
+		"/home/anth/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/anth/Projects/PyCar/pycar.sublime-project",
+		"/home/anth/Projects/Tests/matrix.py",
+		"/home/anth/Projects/PyCar/test1.py",
+		"/home/anth/Projects/PyCar/steer.py",
+		"/home/anth/Projects/PyCar/suspension.py",
+		"/home/anth/Projects/PyCar/force.py",
+		"/home/anth/Projects/PyCar/wheel.py",
+		"/home/anth/Projects/PyCar/engine.py",
+		"/home/anth/Projects/PyCar/physics.py",
+		"/home/anth/Projects/PyCar/graphic.py",
+		"/home/anth/Projects/PyCar/main.py",
+		"/home/anth/Projects/PyCar/forces.py",
+		"/media/UBUNTU/My/Projects/VkMusicDownloader/main.py",
+		"/media/UBUNTU/My/Projects/Pygame/CubeSerf/main.py",
+		"/media/UBUNTU/My/Projects/Pygame/CubeSerf/graphic.py",
+		"/media/UBUNTU/My/Projects/Pygame/CubeSerf/phis.py",
+		"/home/anth/find.py",
+		"/home/anth/Projects/Perlin 1.0.py",
+		"/media/UBUNTU/My/Projects/Pygame/CubeSerf/imports.py",
+		"/home/anth/Projects/tiletest.py",
+		"/home/anth/Projects/PerlinNoise/perlin/demo.py",
+		"/home/anth/Projects/PerlinNoise/perlin/perlin.py",
+		"/home/anth/Projects/PerlinNoise/perlin/prof.py",
+		"/home/anth/Projects/perlin_noise.py",
+		"/media/UBUNTU/My/Projects/Pygame/CubeSerf/engine.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"-",
+			"+."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/anth/Projects/PyCar/pycar.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}
