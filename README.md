@@ -1,0 +1,4 @@
+# BlankPygame
+======
+
+Pygame template.
